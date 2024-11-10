@@ -21,8 +21,8 @@ Cancellation vs. Repeated Guest
 The pie chart shows the ratio of cancellations vs. repeated guests. Cancellations make up the vast majority (92.07%) compared to repeat guests (7.93%), suggesting high churn. This indicates a need for strategies like flexible booking options or incentives to reduce cancellations.
 
 Recommendations
-Reduce Cancellations: Investigate the reasons behind the high cancellation rate, possibly by reviewing booking policies or conducting customer surveys.
-Enhance Guest Retention: Develop loyalty programs and targeted campaigns for repeat guests.
-Segmented Marketing: Tailor marketing efforts for different regions and customer types based on booking trends and lead times.
-Optimize Services for Business Travelers: With a large transient customer base, enhancing business facilities might improve satisfaction and increase repeat bookings.
+-Reduce Cancellations: Investigate the reasons behind the high cancellation rate, possibly by reviewing booking policies or conducting customer surveys.
+-Enhance Guest Retention: Develop loyalty programs and targeted campaigns for repeat guests.
+-Segmented Marketing: Tailor marketing efforts for different regions and customer types based on booking trends and lead times.
+-Optimize Services for Business Travelers: With a large transient customer base, enhancing business facilities might improve satisfaction and increase repeat bookings.
 Overall, the dashboard highlights key areas for improving guest satisfaction, increasing repeat business, and reducing cancellations through targeted strategies.
